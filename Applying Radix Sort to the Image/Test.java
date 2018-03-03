@@ -1,7 +1,7 @@
 /**
  *  This program process an image by sorting according to intensities of 10x10 pixel blocks. 
  *  
- *  @author Senderin, Busra (1305011010)
+ *  @author Senderin, Busra
  *  @see    Class IntensityFilter
  *  @see    Class RadixSort
  */
